@@ -11,9 +11,3 @@ A helpful coding assistant that interacts with the Anthropic Claude AI model to 
 - Maintains and saves conversation history
 - Handles coding-related tasks efficiently
 - Supports incremental conversation with tool results
-
----
-
-## Installation
-
-1. Clone the repository:
